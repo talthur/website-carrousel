@@ -1,0 +1,19 @@
+FATOR DE RESOLUÇÃO (LxA)
+==================
+
+640X480
+768x640
+800x600 => 768px (SEGURO)
+1024x768 => 998px (SEGURO)
+1280x1024 => 1200px (SEGURO) <= RECOMENDADO
+...
+
+
+BLOCK ELEMENT MODIFIER - CSS
+============================
+
+.block { ... }
+
+.block__element { ... }
+
+.block__element--modifier { ... }
